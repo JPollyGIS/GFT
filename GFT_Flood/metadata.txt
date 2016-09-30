@@ -1,0 +1,30 @@
+[general]
+name=GFT
+qgisMinimumVersion=2.0
+description= Perfoms USGS GFT 
+version=2.0.5
+about= na
+
+; Start of changelog file
+changelog =
+
+    Version 1.0:
+    First Release
+
+
+# tags are comma separated with spaces allowed
+tags=Flood
+
+homepage= na
+tracker= na
+repository= na
+icon=icons/icon.png
+# experimental flag
+experimental=False
+# deprecated flag (applies to the whole plugin, not just a single version
+deprecated=False
+
+# Author contact information
+author=Jason Polly
+email=Jason.Polly@Riverside.com
+category=Raster
